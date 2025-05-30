@@ -57,6 +57,8 @@ const Dashboard = () => {
       </motion.section>
 
       {/* Perkenalan Section */}
+      im
+      
       <motion.section
         style={{ backgroundColor: "#D6C0B3"  }}
         className="flex flex-col gap-6 mb-20 p-6 md:p-16 lg:p-28 rounded-xl shadow-md text-center "
